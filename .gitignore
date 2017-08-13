@@ -10,7 +10,7 @@ Homestead.json
 Homestead.yaml
 .env
 composer.lock
-arisan
+artisan
 phpunit.xml
 server.php
 .env.example
